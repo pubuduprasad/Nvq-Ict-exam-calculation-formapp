@@ -1,0 +1,22 @@
+C:\Users\pubudu\source\2repos\WindowsApp\WindowsApp\obj\Debug\WindowsApp.Form1.resources
+C:\Users\pubudu\source\2repos\WindowsApp\WindowsApp\obj\Debug\WindowsApp.Resources.resources
+C:\Users\pubudu\source\2repos\WindowsApp\WindowsApp\obj\Debug\WindowsApp.vbproj.GenerateResource.cache
+C:\Users\pubudu\source\2repos\WindowsApp\WindowsApp\obj\Debug\WindowsApp.vbproj.CoreCompileInputs.cache
+C:\Users\pubudu\source\2repos\WindowsApp\WindowsApp\bin\Debug\WindowsApp.exe.config
+C:\Users\pubudu\source\2repos\WindowsApp\WindowsApp\bin\Debug\WindowsApp.exe
+C:\Users\pubudu\source\2repos\WindowsApp\WindowsApp\bin\Debug\WindowsApp.pdb
+C:\Users\pubudu\source\2repos\WindowsApp\WindowsApp\bin\Debug\WindowsApp.xml
+C:\Users\pubudu\source\2repos\WindowsApp\WindowsApp\obj\Debug\WindowsApp.exe
+C:\Users\pubudu\source\2repos\WindowsApp\WindowsApp\obj\Debug\WindowsApp.xml
+C:\Users\pubudu\source\2repos\WindowsApp\WindowsApp\obj\Debug\WindowsApp.pdb
+C:\Users\pubudu\Desktop\Visual Basic\WindowsApp\WindowsApp\obj\Debug\WindowsApp.Resources.resources
+C:\Users\pubudu\Desktop\Visual Basic\WindowsApp\WindowsApp\obj\Debug\WindowsApp.vbproj.GenerateResource.cache
+C:\Users\pubudu\Desktop\Visual Basic\WindowsApp\WindowsApp\obj\Debug\WindowsApp.vbproj.CoreCompileInputs.cache
+C:\Users\pubudu\Desktop\Visual Basic\WindowsApp\WindowsApp\obj\Debug\WindowsApp.exe
+C:\Users\pubudu\Desktop\Visual Basic\WindowsApp\WindowsApp\obj\Debug\WindowsApp.xml
+C:\Users\pubudu\Desktop\Visual Basic\WindowsApp\WindowsApp\obj\Debug\WindowsApp.pdb
+C:\Users\pubudu\Desktop\Visual Basic\WindowsApp\WindowsApp\obj\Debug\WindowsApp.VBForm.resources
+C:\Users\pubudu\Desktop\Visual Basic\WindowsApp\WindowsApp\bin\Debug\WindowsApp.exe.config
+C:\Users\pubudu\Desktop\Visual Basic\WindowsApp\WindowsApp\bin\Debug\WindowsApp.exe
+C:\Users\pubudu\Desktop\Visual Basic\WindowsApp\WindowsApp\bin\Debug\WindowsApp.pdb
+C:\Users\pubudu\Desktop\Visual Basic\WindowsApp\WindowsApp\bin\Debug\WindowsApp.xml
